@@ -1,0 +1,26 @@
+body {
+ text-align:center;   
+ font-family: 'Indie Flower', cursive;
+
+}
+
+html{
+    background-image:url("https://media.giphy.com/media/l3JDJ8hPoiNbAt6Uw/giphy.gif");
+    text-align:center;
+    background-size:100%;
+}
+
+img {
+ height:100px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:130px;
+}
+h1{
+    border:5px solid black;
+    
+}
